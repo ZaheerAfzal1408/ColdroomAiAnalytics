@@ -1,4 +1,4 @@
-# ColdroomAiAnalytics
+# TankAiAnalytics
 
 AI-powered monitoring and anomaly detection system for cold storage rooms.
 
